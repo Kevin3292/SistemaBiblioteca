@@ -2,4 +2,4 @@
 Version estable del proyecto.
 ---
 ## Modulo en desarrollo
-El modulo de inicio de sesion ha sido integrado correctamente a la version estable del proyecto.
+Se realizaron mejoras al modulo de inicio de sesion para optimizar el proceso de autenticacion de usuarios
